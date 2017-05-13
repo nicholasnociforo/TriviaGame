@@ -1,0 +1,62 @@
+body {
+	background-image: url("http://cdn.playbuzz.com/cdn/404aae30-561f-4652-8a33-d73283a4d80d/70d53074-5c24-466b-a154-bf4d2214b463.jpg");
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+#startButton {
+	background-color: blue;
+	width: 179px;
+	height: 60px;
+	font-family: "Love Ya Like A Sister", sans-serif;
+	color: white;
+	font-size: 33px;
+	border-radius: 117px;
+
+
+}
+
+#startScreen {
+	font-size: 70px;
+}
+
+.container {
+font-family: "Love Ya Like A Sister", sans-serif;
+width: 774px;
+height: 306px;
+background: white;
+text-align: center;
+margin: 0 auto;
+margin-top: 96px;
+font-size: 20px;
+padding-top: 110px;
+border: 21px solid lightblue;
+border-radius: 117px;
+
+}
+
+
+
+#startScreen {
+	font-size: 70px;
+}
+
+#counter {
+	font-size: 29px;
+}
+
+#restartButton {
+background-color: blue;
+	width: 179px;
+	height: 60px;
+	font-family: "Love Ya Like A Sister", sans-serif;
+	color: white;
+	font-size: 33px;
+	border-radius: 117px;
+
+	
+}
